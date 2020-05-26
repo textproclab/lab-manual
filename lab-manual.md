@@ -165,6 +165,10 @@ an interface for asking questions, storing notes, and sharing ideas.
 
 > **Action item**: Create a Slack account and say hello!
 
+Once you've created this account, you can ask any questions through
+Slack -- use the [#general](https://textproclab.slack.com/messages/general)
+channel or the channel specific your project.
+
 In addition, we will schedule in-person or videoconference meetings as
 appropriate for a project, typically once a week.
 
@@ -183,6 +187,23 @@ associated with it.
 
 > **Action item**: If you're not comfortable with Git, please work
 > through these [GitHub tutorials](https://try.github.io).
+
+
+### Computation
+
+All lab members need a computer to get their work done. Generally, we
+prefer to use computers running macOS for workstations and Linux for
+servers.
+
+Computationally intensive research happens on:
+- [Hopper](http://pages.vassar.edu/accas/high-performance-computing-with-hopper), Vassar's high-performance computing cluster
+- Lambda-Quad, a system with multiple GPUs for running neural network models
+
+If you think your research would benefit from running on Hopper, Jonathan
+can sponsor an account. Our suggested workflow is to do non-intensive
+computations and analyses on your personal desktop or laptop computer, and
+to offload more intensive analyses to one of these systems.
+
 
 
 ### Papers
