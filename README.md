@@ -1,1 +1,1 @@
-# lab-manual
+# Lab Manual
