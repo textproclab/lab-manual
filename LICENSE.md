@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2019 Vassar Text Processing Lab
+Copyright (c) 2019-2020 Vassar Text Processing Lab
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
