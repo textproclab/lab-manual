@@ -157,6 +157,18 @@ These are our research principles:
 
 ## Research practices
 
+### Communication
+
+Our *[Slack](https://textproclab.slack.com)* server is where almost all
+not-in-person lab communications take place. It provides an interface
+for asking questions, storing notes, and sharing ideas.
+
+**Action item**: Create a Slack account and say hello!
+
+In addition, we will schedule in-person or videoconference meetings as
+appropriate for a project, typically once a week.
+
+
 ### Papers
 
 All research papers should start with a discussion of:
