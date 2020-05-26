@@ -56,6 +56,105 @@ if you notice others endangering others' rights or neglecting their
 responsibilities, it is your duty to report those violations.
 
 
+## Research principles
+
+The point of research is that we don't already know the answers to the
+questions we're exploring or how to create the tools we're working on. We
+won't be able to plan everything out in advance. We need to be focused and
+efficient even when we don't know the end goal! Toward this end, we
+practice a form of *agile research*.
+
+The agile approach to research we use is inspired by the Agile Movement in
+the software development world. The idea is to create learning, adaptable
+teams to work on bite-sized tasks. Specifically, project teams are
+designed to respond to unpredictability in research through incremental,
+iterative work "sprints". Each sprint lasts approximately 1-2 weeks and
+results in a demonstrable research product, e.g., a draft of a paper, a
+draft of a grant, a completed analysis or figure, a poster, a software
+tool, etc.
+
+This is different from traditional approaches that you may have
+encountered in other labs or work environments, where a research team
+might try to plan out every part of a project in advance in a series of
+small steps. We still try to break projects into small, actionable pieces,
+but the key insight of the agile approach is that we only need to know
+what the *next* chunk is, rather than attempting to forecast out over an
+extended timeline. Although it's often helpful to have a general -- if
+vague -- sense of where things are going, we don't need to know where a
+project will ultimately end up. The goals and process are constantly
+evolving. Perhaps the best justification for this approach is that *the
+first day of a new research project is when you're the most clueless about
+what you'll find*. How could that possibly be the ideal time to plan
+out the entire project?
+
+These are our research principles:
+
+- The purpose of our work is to benefit the research community through the
+  early and continuous delivery of scientific output: ideas,
+  presentations, papers, tutorials, tools, and data sets.
+
+- We welcome changing goals, even late in the process. Doing research
+  means keeping an open mind. Your original goals and plans may no longer
+  apply as your project progresses. Your original hypotheses may be proven
+  false. Your assumptions may be incompatible with your data. Allow your
+  questions to follow where your data leads, rather than be constrained by
+  your initial ideas.
+
+- We deliver research products frequently, from a couple of weeks to a
+  couple of couple of months. Until you have a concrete manifestation of
+  your latest efforts, e.g., a Git commit, a data set, a figure, a
+  statistic, a presentation, or a paper draft, you have nothing to show
+  the world for your efforts. Produce research products often, even if
+  they're small or seem insignificant. You can always improve on an
+  already produced research product.
+
+- Continuous attention to technical excellence and good design enhances
+  agility. While producing frequent research products prohibits us from
+  fixating on perfection, there are often several similarly efficient ways
+  to accomplish tasks that vary in their design quality. For example,
+  consider whether the solution to a problem you're working on might also
+  apply to other similar problems. Can you make your solution general
+  enough to cover those cases? After completing a draft of a research
+  product, you will likely have some insights into alternative,
+  potentially better, approaches. Can you tweak the product to leverage
+  those insights?
+
+- Simplicity is essential. Keep in mind the scope of your task. What's the
+  minimum viable set of accomplishments that will allow you to complete
+  that task? Get those done first and "release" your product, e.g.,
+  commit to Git or share on Slack. You can always define a new set of
+  goals for your next task centered around extending your just-released
+  research product. This will help to avoid aimless drift, whereby you
+  spend large amounts of time on tasks that are, in retrospect,
+  tangential to the main scope of work.
+
+- Aim to get some amount of work done *every single day* on your project.
+  Commit your changes to GitHub, or document your progress in Slack or an
+  electronic lab notebook. Maintain careful records and logs so that
+  someone can pick up your work in the future. Remember that your greatest
+  collaborator is your past self, but they don't respond to emails or
+  Slack messages! Help "future you" by producing methodical, clear work
+  with adequate documentation (which might just be the Git commits,
+  allowing you compare different versions of a particular file.)
+
+- Build projects around motivated individuals. Give them the environment
+  and support they need, and trust them to get the job done. Each day,
+  ask yourself, "am I motivated to do my best work on my project today?"
+  If the answer is "no", try to understand why. Is it lack of resources?
+  Lack of support? Distractions? Ambiguous goals or research directions?
+  Talk to your fellow lab members and see how they'd approach the
+  challenges you're facing. Don't let yourself get stuck or bored.
+
+- Agile research is sustainable research. Researchers should be able to
+  maintain a constant pace indefinitely. Sometimes we have crunch times
+  where we absolutely must meet a deadline, but it's far more efficient to
+  make steady progress over an extended timeframe than to fluctuate
+  between periods of high and low productivity. By distributing your
+  workload you'll help yourself avoid burnout, preserve your mental and
+  physical health, and allow yourself time to "step back" and think about
+  the big picture.
+
+
 ## Who to go to with questions
 
 Technical issues can often be resolved within the lab, but some will
@@ -83,5 +182,5 @@ resources should you encounter a situation in which you want to use them.
 
 ## Acknowledgments
 
-This manual is derived in part from the lab manual for Jeremy Manning's
-Contextual Dynamics Lab at Dartmouth College.
+This manual is derived primarily from Jeremy Manning's Contextual Dynamics
+[lab manual](https://github.com/ContextLab/lab-manual).
