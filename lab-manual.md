@@ -172,22 +172,22 @@ In considering whether a contribution to a project merits authorship on a
 paper, we follow the NIH's [General Guidelines for Authorship](NIH).
 In general, you likely meet the requirements for authorship if you
 contributed in any of the following ways:
-1. Drafted the manuscript (this typically warrants first authorship)
-2. Came up with the idea or made other substantial intellectual
-   contributions that meaningfully shaped the trajectory of the project
-3. Carried out an original experimental study
-4. Carried out non-trivial data analyses
-5. Contributed novel tools or resources to the project that haven't
-   been published yet
+- Drafted the manuscript (this typically warrants first authorship)
+- Came up with the idea or made other substantial intellectual
+  contributions that meaningfully shaped the trajectory of the project
+- Carried out an original experimental study
+- Carried out non-trivial data analyses
+- Contributed novel tools or resources to the project that haven't
+  been published yet
 
 You are unlikely to meet the requirements for authorship if your
 contributions were limited to the following:
-1. Running basic data analyses
-2. Getting trained by one of the other project members on a
-   project-related task
-3. Training another project member on a project-related task
-4. Sharing already-published tools or resources
-5. Editing or commenting on a draft of the manuscript
+- Running basic data analyses
+- Getting trained by one of the other project members on a
+  project-related task
+- Training another project member on a project-related task
+- Sharing already-published tools or resources
+- Editing or commenting on a draft of the manuscript
 
 If you have made a non-trivial contribution to a project but did not meet
 the requirements for authorship, you will instead receive a citation in
@@ -209,6 +209,36 @@ including InDesign files you can use as templates. Ensure
 that any images are either vector graphics or are at sufficiently high
 resolutions (at least 300 dpi).
 
+
+## Making mistakes
+
+The work we do is complicated, and mistakes happen. When you notice a
+mistake, it's important that you report it promptly. While mistakes are
+unavoidable in science, negative impacts can be minimized by fostering a
+workplace where reporting mistakes is celebrated and accepted as part of
+the natural course of getting things done. Mistakes are opportunities to
+learn and grow, and identifying or noticing mistakes should be celebrated
+as part of our growth as scientists.
+
+Some scenarios you might encounter are:
+- You've shared a figure, statistic, or other result, and you've realized
+  there's a bug in the code that generated it.
+- You tried to collect some data and the experiment crashed or yielded
+  corrupted data.
+- You're re-reading a paper that you shared, and you notice a mistake or
+  typo.
+- You made a plan with your project team and you realized it's flawed in
+  some way.
+- You released a software package, and you've found a bug or error.
+
+Appropriate actions for each of the above scenarios:
+1. Double check, to the best of your ability, that the mistake is
+   real. This may involve checking over code, rebooting a computer and
+   restarting an experiment, re-reading reference text, etc.
+2. Create a GitHub issue describing the problem. Provide information about
+   how to reproduce the problem (if applicable), the expected behavior,
+   and the observed behavior.
+3. Coordinate over Slack to formulate an action plan.
 
 
 ## Who to go to with questions
