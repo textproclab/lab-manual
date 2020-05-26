@@ -159,14 +159,30 @@ These are our research principles:
 
 ### Communication
 
-Our *[Slack](https://textproclab.slack.com)* server is where almost all
-not-in-person lab communications take place. It provides an interface
-for asking questions, storing notes, and sharing ideas.
+The *[Text Processing Lab Slack](https://textproclab.slack.com)* server is
+where almost all not-in-person lab communications take place. It provides
+an interface for asking questions, storing notes, and sharing ideas.
 
-**Action item**: Create a Slack account and say hello!
+    **Action item**: Create a Slack account and say hello!
 
 In addition, we will schedule in-person or videoconference meetings as
 appropriate for a project, typically once a week.
+
+
+### Code
+
+We use the [Text Processing Lab GitHub](https://github.com/textproclab)
+organization for managing code (as well as some data sets or other
+resources). Each project will have one or more GitHub repositories
+associated with it.
+
+    **Action item**: Create a GitHub account.
+    
+    **Action item**: Email your GitHub username to Jonathan and he'll add
+    you to the organization.
+    
+    **Action item**: If you're not comfortable with Git, please work
+    through these [GitHub tutorials](https://try.github.io).
 
 
 ### Papers
