@@ -56,6 +56,31 @@ if you notice others endangering others' rights or neglecting their
 responsibilities, it is your duty to report those violations.
 
 
+## Who to go to with questions
+
+Technical issues can often be resolved within the lab, but some will
+require outside help. Interpersonal issues should be resolved in
+accordance with your comfort, but it is important to be aware of the below
+resources should you encounter a situation in which you want to use them.
+
+- If you have a question about the lab policies or practices, first try to
+  find the answer in this lab manual!
+
+- If you feel your question is not adequately answered in the lab manual,
+  post your question on Slack or talk to Jonathan.
+
+- For questions on papers or posters, talk to Jonathan.
+
+- For issues with equipment owned by the CS department or with the Hopper
+  cluster, you should contact Matt Tarantino, mtarantino@vassar.edu.
+
+- For issues with Vassar IT, open a [service
+  ticket](http://servicedesk.vassar.edu).
+
+- For questions about forms, receipts, etc., contact Jennie Colabella,
+  jcolabella@vassar.edu.
+
+
 ## Acknowledgments
 
 This manual is derived in part from the lab manual for Jeremy Manning's
