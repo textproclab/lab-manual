@@ -155,6 +155,62 @@ These are our research principles:
   the big picture.
 
 
+## Research practices
+
+### Papers
+
+All research papers should start with a discussion of:
+- What the paper is going to be about
+- What the key results are
+- What the overall "story" is
+- The current status of various components of the project
+  (e.g., data collection, analyses, figures, interpretation, literature
+  review, etc.)
+- Who is a potential candidate for authorship on the paper
+
+In considering whether a contribution to a project merits authorship on a
+paper, we follow the NIH's [General Guidelines for Authorship](NIH).
+In general, you likely meet the requirements for authorship if you
+contributed in any of the following ways:
+1. Drafted the manuscript (this typically warrants first authorship)
+2. Came up with the idea or made other substantial intellectual
+   contributions that meaningfully shaped the trajectory of the project
+3. Carried out an original experimental study
+4. Carried out non-trivial data analyses
+5. Contributed novel tools or resources to the project that haven't
+   been published yet
+
+You are unlikely to meet the requirements for authorship if your
+contributions were limited to the following:
+1. Running basic data analyses
+2. Getting trained by one of the other project members on a
+   project-related task
+3. Training another project member on a project-related task
+4. Sharing already-published tools or resources
+5. Editing or commenting on a draft of the manuscript
+
+If you have made a non-trivial contribution to a project but did not meet
+the requirements for authorship, you will instead receive a citation in
+the acknowledgments section of the paper.
+
+Papers should be written in LaTeX on [Overleaf](https://www.overleaf.com),
+an online platform that supports editing LaTeX and producing PDFs in the
+browser. Progress should be shared regularly via Slack.
+
+[NIH]: https://oir.nih.gov/sites/default/files/uploads/sourcebook/documents/ethical_conduct/guidelines-authorship_contributions.pdf
+
+
+### Posters
+
+The preferred methods for creating posters are to use Adobe InDesign or
+\href{https://github.com/deselaers/latex-beamerposter}{LaTeX
+BeamerPoster}. Jonathan can provide examples of previous posters,
+including InDesign files you can use as templates. Ensure
+that any images are either vector graphics or are at sufficiently high
+resolutions (at least 300 dpi).
+
+
+
 ## Who to go to with questions
 
 Technical issues can often be resolved within the lab, but some will
