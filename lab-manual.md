@@ -159,7 +159,7 @@ These are our research principles:
 
 ### Communication
 
-The *[Text Processing Lab Slack](https://textproclab.slack.com)* server is
+The [Text Processing Lab Slack](https://textproclab.slack.com) server is
 where almost all not-in-person lab communications take place. It provides
 an interface for asking questions, storing notes, and sharing ideas.
 
