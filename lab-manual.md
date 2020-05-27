@@ -252,8 +252,8 @@ browser. Progress should be shared regularly via Slack.
 ### Posters
 
 The preferred methods for creating posters are to use Adobe InDesign or
-\href{https://github.com/deselaers/latex-beamerposter}{LaTeX
-BeamerPoster}. Jonathan can provide examples of previous posters,
+[LaTeX BeamerPoster](https://github.com/deselaers/latex-beamerposter}{LaTeX
+BeamerPoster). Jonathan can provide examples of previous posters,
 including InDesign files you can use as templates. Ensure
 that any images are either vector graphics or are at sufficiently high
 resolutions (at least 300 dpi).
