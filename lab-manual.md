@@ -208,7 +208,7 @@ to offload more intensive analyses to one of these systems.
 
 ### Papers
 
-All research papers should start with a discussion of:
+Planning a research paper should start with a discussion of:
 - What the paper is going to be about
 - What the key results are
 - What the overall "story" is
